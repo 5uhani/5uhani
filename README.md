@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Engineering Student
-- 💻 Interested in Full Stack Development, Data Science and Devops
+- 💻 Interested in Full Stack Development, Data Science and DevOps
 - 📚 Practicing Data Structures & Algorithms
 
 
