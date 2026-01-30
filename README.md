@@ -48,6 +48,32 @@
 
 ---
 
+## 💻 Coding Practice
+
+<p align="center">
+
+<a href="https://codeforces.com/profile/5uhani">
+  <img src="https://img.shields.io/badge/Codeforces-Competitive-blue?logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/5uhani">
+  <img src="https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/5uhani/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-darkgreen?logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://codeforces-readme-stats.vercel.app/api/card?username=5uhani"/>
+
+<img height="170" src="https://leetcard.jacoblin.cool/5uhani?theme=light"/>
+
+</p>
+
 ## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/suhanii5?theme=light&font=baloo)
 
