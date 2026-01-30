@@ -48,6 +48,11 @@
 
 ---
 
+## 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=baloo)
+
+---
+
 ## 🚀 Projects
 - 🔹 **Boundless Adventures** – Travel website using HTML/CSS
 - 🔹 **FoodieVerse** – Food ordering frontend project
