@@ -29,14 +29,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=5uhani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=5uhani&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5uhani&layout=compact&theme=tokyonight" />
-  
-  <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_ID&theme=dark" />
-</div>
 </div>
 
