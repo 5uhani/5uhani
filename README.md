@@ -38,14 +38,13 @@
 ![OS](https://img.shields.io/badge/OS-Processes%20%26%20Memory-e74c3c)
 ![CN](https://img.shields.io/badge/CN-Networking-8e44ad)
 
-
-### 🧠 Coding Practice
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)
-
 ---
 
-## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/suhanii5?theme=light&font=baloo)
+## 💻 Coding Practice
+
+![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-Competitive-blue?logo=codeforces&logoColor=white)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-darkgreen?logo=geeksforgeeks&logoColor=white)
 
 ---
 
@@ -59,16 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5uhani&show_icons=true&theme=default"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5uhani&layout=compact"/>
-</p>
-
-
-
----
 
 ## 🤝 Connect With Me
 - 💻 GitHub: https://github.com/5uhani
