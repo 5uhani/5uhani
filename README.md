@@ -61,9 +61,11 @@
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=5uhani&show_icons=true&theme=default&cache_seconds=1800"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5uhani&show_icons=true&theme=default"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5uhani&layout=compact"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5uhani&layout=compact&cache_seconds=1800"/>
 
 
 ---
