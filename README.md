@@ -24,21 +24,4 @@
 
 ---
 
-### 🏆 Achievements & Milestones
-<img src="https://github-profile-trophy.vercel.app/?username=5uhani&theme=onedark" alt="Trophy Card" />
-
----
-
-### 📊 GitHub Analysis
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5uhani&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5uhani&layout=compact&theme=tokyonight" width="300" />
-</p>
-
----
-
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-
 </div>
