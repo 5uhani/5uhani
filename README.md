@@ -1,33 +1,57 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Suhani!
-### 🚀 A passionate developer from India 
-**Lifelong Learner | Problem Solver**
+### 🚀 Aspiring Software Engineer | DevOps Enthusiast | Problem Solver
+**India 📍 | Continuous Learner 📚**
 
 <img src="https://komarev.com/ghpvc/?username=5uhani&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Views" />
 <img src="https://img.shields.io/github/followers/5uhani?label=FOLLOWERS&style=flat&color=0e75b6" alt="Followers" />
 
 ---
 
+### 🛠️ Tech Stack & Skills
+
+**Languages & Core**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Web Development & Design**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+**DevOps & Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+### 🏆 Achievements & Milestones
+[![trophy](https://github-profile-trophy.vercel.app/?username=5uhani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 GitHub Analysis
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=5uhani&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5uhani&layout=compact&theme=tokyonight" width="300" />
+</p>
+
+---
+
+### 🧩 Coding Journey
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_ID&theme=dark)
+
+---
+
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Backend**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Frontend & Design**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
 </div>
-
