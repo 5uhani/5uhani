@@ -2,7 +2,6 @@
 
 # 👋 Hi, I'm Suhani!
 ### 🚀 Aspiring Software Engineer | DevOps Enthusiast | Problem Solver
-**India 📍 | Continuous Learner 📚**
 
 <img src="https://komarev.com/ghpvc/?username=5uhani&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Views" />
 <img src="https://img.shields.io/github/followers/5uhani?label=FOLLOWERS&style=flat&color=0e75b6" alt="Followers" />
@@ -23,16 +22,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-**DevOps & Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 ---
 
 ### 🏆 Achievements & Milestones
-[![trophy](https://github-profile-trophy.vercel.app/?username=5uhani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy Card](https://github-profile-trophy.vercel.app/?username=5uhani&theme=onedark)
 
 ---
 
@@ -50,8 +43,8 @@
 ---
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
