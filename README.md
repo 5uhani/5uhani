@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhani</h1>
-<h3 align="center">Computer Science Engineering Student | Cloud & DevOps Enthusiast | Problem Solver</h3>
+<h3 align="center">Computer Science Engineering Student | Software Developer | Problem Solver</h3>
 
 ---
 
@@ -60,7 +60,6 @@ Data Structures & Algorithms • OOPS • DBMS • OS • Computer Networks
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- 📧 Email: your.email@example.com
+- 💻 GitHub: https://github.com/5uhani
+- 📧 Email: suhanimalani9@gmail.com
 
