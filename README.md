@@ -4,11 +4,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 CSE Student (Cloud Computing Specialization)
-- 💻 Interested in DevOps, Cloud, and Full Stack Development
-- 📚 Practicing Data Structures & Algorithms daily
-- ☁️ Learning AWS & real-world system design
-- 🎯 Goal: Crack top product-based companies
+- 🎓 Computer Science Engineering Student
+- 💻 Interested in Full Stack Development, Data Science and Devops
+- 📚 Practicing Data Structures & Algorithms
+
 
 ---
 
@@ -41,7 +40,7 @@ Data Structures & Algorithms • OOPS • DBMS • OS • Computer Networks
 ---
 
 ## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/suhanii5?theme=light&font=baloo)
 
 ---
 
@@ -56,7 +55,7 @@ Data Structures & Algorithms • OOPS • DBMS • OS • Computer Networks
 ---
 
 ## 📈 GitHub Stats
-![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=5uhani&show_icons=true&theme=default)
 
 ---
 
