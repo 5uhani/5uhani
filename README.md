@@ -55,7 +55,11 @@ Data Structures & Algorithms • OOPS • DBMS • OS • Computer Networks
 ---
 
 ## 📈 GitHub Stats
-![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=5uhani&show_icons=true&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5uhani&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5uhani&layout=compact)
+
 
 ---
 
