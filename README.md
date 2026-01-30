@@ -30,18 +30,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=5uhani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=5uhani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats
-![Suhani's Stats](https://github-readme-stats.vercel.app/api?username=5uhani&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5uhani&layout=compact&theme=tokyonight)
-
-</div>
-
 <div align="center">
   [![trophy](https://github-profile-trophy.vercel.app/?username=5uhani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -50,3 +38,5 @@
   
   <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_ID&theme=dark" />
 </div>
+</div>
+
