@@ -66,5 +66,4 @@
 
 ## 🤝 Connect With Me
 - 💻 GitHub: https://github.com/5uhani
-- 📧 Email: suhanimalani9@gmail.com
 
