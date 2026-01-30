@@ -52,16 +52,12 @@
 
 <p align="center">
 
-<a href="https://codeforces.com/profile/5uhani">
+<a href="https://codeforces.com/profile/Suhani_Malanii">
   <img src="https://img.shields.io/badge/Codeforces-Competitive-blue?logo=codeforces&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/5uhani">
   <img src="https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://auth.geeksforgeeks.org/user/5uhani/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-darkgreen?logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
