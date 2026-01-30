@@ -31,8 +31,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### 📘 Core CS
-Data Structures & Algorithms • OOPS • DBMS • OS • Computer Networks
+## 📘 Core CS
+![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-2f80ed)
+![OOPS](https://img.shields.io/badge/OOPS-Concepts-27ae60)
+![DBMS](https://img.shields.io/badge/DBMS-SQL%20%26%20Design-f39c12)
+![OS](https://img.shields.io/badge/OS-Processes%20%26%20Memory-e74c3c)
+![CN](https://img.shields.io/badge/CN-Networking-8e44ad)
+
 
 ### 🧠 Coding Practice
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)
