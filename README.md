@@ -57,12 +57,14 @@
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Suhani_Malani)
 
-
-
-
 ---
+## ⚡ GitHub Stats
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=5uhani&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5uhani&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
 # 🚀 Featured Projects
@@ -81,7 +83,7 @@
 
 ✨ Responsive travel booking UI with clean design  
 
-🔗 [Repo](https://github.com/5uhani) • (#)
+🔗 [Repo](https://github.com/5uhani) 
 
 </td>
 
@@ -96,7 +98,7 @@
 
 ✨ Interactive food ordering frontend  
 
-🔗 [Repo](https://github.com/5uhani) (#)
+🔗 [Repo](https://github.com/5uhani)
 
 </td>
 
