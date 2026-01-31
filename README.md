@@ -62,13 +62,54 @@
 
 ---
 
+---
+
 ## 🚀 Projects
-- 🔹 **Boundless Adventures** – Travel website using HTML/CSS
-- 🔹 **FoodieVerse** – Food ordering frontend project
-- 🔹 **DevOps Cost Manager** – AWS-based cost optimization tool
-- 🔹 **PlanMyTrip** – JavaScript travel planner
-- 🔹 **DSA Practice Repository** – Structured problem solving
-- 🔹 **LeetCode Problems** – Daily coding challenges
+
+### 🌍 Boundless Adventures
+Travel website built using HTML & CSS  
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![Frontend](https://img.shields.io/badge/Type-Frontend-success)
+
+---
+
+### 🍔 FoodieVerse
+Food ordering frontend project  
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+
+---
+
+### ☁️ DevOps Cost Manager
+AWS-based cloud cost optimization tool  
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Computing-blue)
+![DevOps](https://img.shields.io/badge/DevOps-black?logo=docker)
+
+---
+
+### 🧳 PlanMyTrip
+JavaScript travel planner web app  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![WebApp](https://img.shields.io/badge/Web-App-green)
+
+---
+
+### 📚 DSA Practice Repository
+Structured problem solving & algorithms  
+![DSA](https://img.shields.io/badge/Data%20Structures-blue)
+![Algorithms](https://img.shields.io/badge/Algorithms-purple)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+
+---
+
+### 🧠 LeetCode Problems
+Daily coding challenges & interview prep  
+![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Practice-Daily-success)
+
 
 ---
 
