@@ -90,7 +90,7 @@
 
 ✨ Interactive food ordering frontend  
 
-🔗 [Repo](https://github.com/5uhani)
+🔗 [Repo](https://github.com/5uhani/FoodieVerse)
 
 </td>
 
