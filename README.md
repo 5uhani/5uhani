@@ -127,7 +127,7 @@
 
 ✨ Smart itinerary & planning tool  
 
-🔗 [Repo](https://github.com/5uhani)
+🔗 [Repo](https://github.com/5uhani/PlanMyTrip)
 
 </td>
 
