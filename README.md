@@ -63,6 +63,121 @@
 ---
 
 ---
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌍 Boundless Adventures  
+🧳 Travel Website  
+
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-success)
+
+✨ Responsive travel booking UI with clean design  
+
+🔗 [Repo](https://github.com/5uhani) • [Live Demo](#)
+
+</td>
+
+<td width="50%">
+
+## 🍔 FoodieVerse  
+🍽️ Food Ordering App  
+
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
+✨ Interactive food ordering frontend  
+
+🔗 [Repo](https://github.com/5uhani) • [Live Demo](#)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## ☁️ DevOps Cost Manager  
+💰 AWS Cloud Optimization Tool  
+
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![DevOps](https://img.shields.io/badge/DevOps-black?logo=docker)
+![Cloud](https://img.shields.io/badge/Cloud-blue)
+
+✨ Tracks & reduces AWS infrastructure cost  
+
+🔗 [Repo](https://github.com/5uhani)
+
+</td>
+
+<td width="50%">
+
+## 🧳 PlanMyTrip  
+✈️ Travel Planner Web App  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![WebApp](https://img.shields.io/badge/Web-App-green)
+
+✨ Smart itinerary & planning tool  
+
+🔗 [Repo](https://github.com/5uhani)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📚 DSA Practice Repository  
+🧠 Structured Problem Solving  
+
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![DSA](https://img.shields.io/badge/Data%20Structures-purple)
+![Algorithms](https://img.shields.io/badge/Algorithms-success)
+
+✨ 300+ problems with optimized solutions  
+
+🔗 [Repo](https://github.com/5uhani)
+
+</td>
+
+<td width="50%">
+
+## 🧠 LeetCode Practice  
+🔥 Daily Coding  
+
+![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)
+![Consistency](https://img.shields.io/badge/Daily-Practice-success)
+
+✨ Regular problem solving & contest prep  
+
+🔗 [Profile](https://leetcode.com/)
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🚀 Projects
 
