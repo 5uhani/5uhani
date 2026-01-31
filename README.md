@@ -113,7 +113,7 @@
 
 ✨ Tracks & reduces AWS infrastructure cost  
 
-🔗 [Repo](https://github.com/5uhani)
+🔗 [Repo](https://github.com/5uhani/Devops-Cost-Manager)
 
 </td>
 
