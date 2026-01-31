@@ -150,7 +150,7 @@
 
 ✨ 300+ problems with optimized solutions  
 
-🔗 [Repo](https://github.com/5uhani)
+🔗 [Repo](https://github.com/5uhani/DSA)
 
 </td>
 
