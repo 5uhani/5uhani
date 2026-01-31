@@ -75,7 +75,7 @@
 
 ✨ Responsive travel booking UI with clean design  
 
-🔗 [Repo](https://github.com/5uhani) 
+🔗 [Repo](https://github.com/5uhani/boundless-adventures) 
 
 </td>
 
