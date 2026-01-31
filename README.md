@@ -164,7 +164,7 @@
 
 ✨ Regular problem solving & contest prep  
 
-🔗 [Profile](https://leetcode.com/)
+🔗 [Repo](https://github.com/5uhani/Leetcode-Problems)
 
 </td>
 
