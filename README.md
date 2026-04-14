@@ -53,11 +53,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/suhanii5?theme=light&font=baloo)
 
-## 📊 Codeforces Stats
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Suhani_Malani)
-
----
 
 # 🚀 Featured Projects
 
